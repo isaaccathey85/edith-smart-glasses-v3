@@ -1,0 +1,14 @@
+openai
+python-dotenv
+vosk
+sounddevice
+numpy
+pyttsx3
+gTTS
+pygame
+Pillow
+opencv-python
+pyserial
+bleak
+luma.oled
+pytest
